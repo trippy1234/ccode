@@ -2,9 +2,8 @@
 int main() {    
 
     int number1, number2, sum;
-    
-    printf("Enter two integers: ");
-    scanf("%d %d", &number1, &number2);
+    number1=21;
+    number2=20;
 
     // calculate the sum
     sum = number1 + number2;      
